@@ -1,6 +1,8 @@
 # Olympus Pen D2 Repair
 Repairing a mechanically and electrically faulty Olympus Pen D2 film camera.
 
+&#x200B;
+
 ## Electrical Repairs
 
 ***AKA: Repairing an Olympus Pen D2/D3 light meter and converting it to 1.55V SR44 batteries.***
@@ -49,4 +51,14 @@ To avoid this, use a thin shim *(I cut off a fragment of a 9V battery terminal w
 
 ![CdS cell \(LDR\) used in Olympus Pen D2 light meter.](https://preview.redd.it/ztua4cwgr2l91.png?width=2936&format=png&auto=webp&s=024c76a39e0dffcc03e8a3f36e85ab3fd368ec9b)
 
+&#x200B;
+
 ## Mechanical Repairs
+
+The shutter was slow as the shutter blades required cleaning.
+The aperture blades were in fine condition, and did not need to be bothered about as the aperture is manually stopped down always.
+The winding function does not cock the shutter and allows the film to be wound infinitely, BUT ONLY when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
+
+&#x200B;
+
+![temp images here](IMAGE URL)
