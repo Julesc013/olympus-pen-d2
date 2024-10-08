@@ -1,8 +1,6 @@
 # Olympus Pen D2 Repair
 Repairing a mechanically and electrically faulty Olympus Pen D2 film camera.
 
-&#x200B;
-
 ## Electrical Repairs
 
 ***AKA: Repairing an Olympus Pen D2/D3 light meter and converting it to 1.55V SR44 batteries.***
@@ -29,7 +27,11 @@ Worst case I'd say it's accurate to ±1 stop, which is probably factory spec/tol
 
 Finally, I can confirm the solid metal body conducts the positive voltage from battery to the galvenometer (similar to how a car is wired).
 
-&#x200B;
+![Reverse engineered schematic for Olympus Pen D2 light meter.](https://preview.redd.it/weybmhyfl2l91.jpg?width=4000&format=pjpg&auto=webp&s=afee574fb5b303a4237c27c2924f3639ef4dae9a)
+
+![Simplified light meter schematic showing dual LDR split into distinct elements.](https://preview.redd.it/x33qtgq9wul91.jpg?width=2722&format=pjpg&auto=webp&s=6da070e1678e34289f012645039d4f519c8109d9)
+
+![CdS cell \(LDR\) used in Olympus Pen D2 light meter.](https://preview.redd.it/ztua4cwgr2l91.png?width=2936&format=png&auto=webp&s=024c76a39e0dffcc03e8a3f36e85ab3fd368ec9b)
 
 **Update:** After all this, the meter readings started jumping around erratically. I discovered that the button was not closing it's contacts properly, and was not only bouncing, but also introducing additonal resistance.
 
@@ -42,16 +44,6 @@ As a consequence, the button is now activated without depressing it as far. If y
 To avoid this, use a thin shim *(I cut off a fragment of a 9V battery terminal which is about 0.5mm thick)*, and set the button as far back as possible when you screw it in place *(this meant the button was slightly off axis, pointing to the side, but it still functions perfectly and is within spec)*.
 
 **Update:** I also think that there isn't propper shielding between the circuit and the metal body; My meter frequently jumps between two readings (as if it were switching between high and low sensitivity settings). My best guess is the case is adding a parallel circuit to the loop occasionally.
-
-&#x200B;
-
-![Reverse engineered schematic for Olympus Pen D2 light meter.](https://preview.redd.it/weybmhyfl2l91.jpg?width=4000&format=pjpg&auto=webp&s=afee574fb5b303a4237c27c2924f3639ef4dae9a)
-
-![Simplified light meter schematic showing dual LDR split into distinct elements.](https://preview.redd.it/x33qtgq9wul91.jpg?width=2722&format=pjpg&auto=webp&s=6da070e1678e34289f012645039d4f519c8109d9)
-
-![CdS cell \(LDR\) used in Olympus Pen D2 light meter.](https://preview.redd.it/ztua4cwgr2l91.png?width=2936&format=png&auto=webp&s=024c76a39e0dffcc03e8a3f36e85ab3fd368ec9b)
-
-&#x200B;
 
 ## Mechanical Repairs
 
