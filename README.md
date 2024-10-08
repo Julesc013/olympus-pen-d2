@@ -5,7 +5,7 @@ Repairing a mechanically and electrically faulty Olympus Pen D2 film camera.
 
 ***AKA: Repairing an Olympus Pen D2/D3 light meter and converting it to 1.55V SR44 batteries.***
 
-See ![my post about this repair](https://www.reddit.com/r/AnalogCommunity/comments/x2htal/designing_a_cds_light_meter_circuit/) on Reddit.
+See [my post about this repair](https://www.reddit.com/r/AnalogCommunity/comments/x2htal/designing_a_cds_light_meter_circuit/) on Reddit.
 
 I have sucessfully repaired the meter and converted it to run on *SR44 (1.55 volt)* batteries. Here's the notes I took.
 
