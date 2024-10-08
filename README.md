@@ -61,6 +61,11 @@ The winding function does not cock the shutter and allows the film to be wound i
 Custom designed flash unit for the **Olympus Pen** series.
 Attaches to the base of the **Pen D2** and synchronised with a PC socket at all speeds.
 
-This section also includes designs to fabricate the same flash but for a **Canon P (Populaire)** instead.
+![temp images here](IMAGE URL)
+
+## Light Meter Unit
+
+Custom designed light meter unit for the **Canon P** rangefinder.
+Attaches to the top of a **Canon P** or **Canon 7** rangefinder.
 
 ![temp images here](IMAGE URL)
