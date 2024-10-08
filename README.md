@@ -49,8 +49,7 @@ To avoid this, use a thin shim *(I cut off a fragment of a 9V battery terminal w
 
 The shutter was slow as the shutter blades required cleaning.
 The aperture blades were in fine condition, and did not need to be bothered about as the aperture is manually stopped down always.
-The winding function does not cock the shutter and allows the film to be wound infinitely, BUT ONLY when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
 
-&#x200B;
+The winding function does not cock the shutter and allows the film to be wound infinitely, BUT ONLY when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
 
 ![temp images here](IMAGE URL)
