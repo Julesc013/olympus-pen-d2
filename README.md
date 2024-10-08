@@ -27,11 +27,11 @@ Worst case I'd say it's accurate to ±1 stop, which is probably factory spec/tol
 
 Finally, I can confirm the solid metal body conducts the positive voltage from battery to the galvenometer (similar to how a car is wired).
 
-![Reverse engineered schematic for Olympus Pen D2 light meter.](https://preview.redd.it/weybmhyfl2l91.jpg?width=4000&format=pjpg&auto=webp&s=afee574fb5b303a4237c27c2924f3639ef4dae9a)
+![Reverse engineered schematic for Olympus Pen D2 light meter.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/weybmhyfl2l91.jpg)
 
-![Simplified light meter schematic showing dual LDR split into distinct elements.](https://preview.redd.it/x33qtgq9wul91.jpg?width=2722&format=pjpg&auto=webp&s=6da070e1678e34289f012645039d4f519c8109d9)
+![Simplified light meter schematic showing dual LDR split into distinct elements.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/x33qtgq9wul91.jpg)
 
-![CdS cell \(LDR\) used in Olympus Pen D2 light meter.](https://preview.redd.it/ztua4cwgr2l91.png?width=2936&format=png&auto=webp&s=024c76a39e0dffcc03e8a3f36e85ab3fd368ec9b)
+![CdS cell \(LDR\) used in Olympus Pen D2 light meter.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/ztua4cwgr2l91.png)
 
 **Update:** After all this, the meter readings started jumping around erratically. I discovered that the button was not closing it's contacts properly, and was not only bouncing, but also introducing additonal resistance.
 
