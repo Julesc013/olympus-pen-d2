@@ -55,3 +55,12 @@ The aperture blades were in fine condition, and did not need to be bothered abou
 The winding function does not cock the shutter and allows the film to be wound infinitely, _but only_ when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
 
 ![temp images here](IMAGE URL)
+
+## Flash Unit
+
+Custom designed flash unit for the **Olympus Pen** series.
+Fitted to attach to the base of the **Pen D2** and synchronised with a PC socket at all speeds.
+
+This section also includes designs to fabricate the same flash but for a **Canon P (Populaire)** instead.
+
+![temp images here](IMAGE URL)
