@@ -1,6 +1,8 @@
 # Olympus Pen D2 Repair
 Repairing a mechanically and electrically faulty Olympus Pen D2 film camera.
 
+![Disassembled Olympus Pen D2](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/Pen-D2-Posed.jpg)
+
 ## Electrical Repairs
 
 ***AKA: Repairing an Olympus Pen D2/D3 light meter and converting it to 1.55V SR44 batteries.***
