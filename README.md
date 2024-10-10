@@ -35,6 +35,8 @@ Finally, I can confirm the solid metal body conducts the positive voltage from b
 
 ![CdS cell \(LDR\) used in Olympus Pen D2 light meter.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/ztua4cwgr2l91.png)
 
+![Photos of circuit board, pusher button, and galvenometer.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/oly-pen-d2-electrical.png)
+
 **Update:** After all this, the meter readings started jumping around erratically. I discovered that the button was not closing it's contacts properly, and was not only bouncing, but also introducing additonal resistance.
 
 To fix this, I carefully deconstructed the button by unscrewing the golden top and removing the push-needle-rod-thing and the rubber bumper underneath the spring. You do not need to desolder the spring, just gently move it up and out of the tube so that the bumper can slide out.
@@ -56,7 +58,7 @@ The aperture blades were in fine condition, and did not need to be bothered abou
 
 The winding function does not cock the shutter and allows the film to be wound infinitely, _but only_ when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
 
-![temp images here](IMAGE URL)
+![Photos of shutter and aperture before and during exposure.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/oly-pen-d2-mechanical.png)
 
 ## Flash Unit
 
