@@ -67,11 +67,14 @@ _Note: In the picture above, you will notice a void to the right side of the shu
 Custom designed flash unit for the **Olympus Pen** series.
 Attaches to the base of the **Pen D2** and synchronised with a PC socket at all speeds.
 
-![temp images here](IMAGE URL)
+![Reverse engineered Kodak Powerflash flash unit.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/f00.JPG)
+![Custom designed flash unit for Olympus Pen D2 (1 of 2).](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/f05.JPG)
+![Custom designed flash unit for Olympus Pen D2 (2 of 2).](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/f06.JPG)
 
 ## Light Meter Unit
 
 Custom designed light meter unit for the **Canon P** rangefinder.
 Attaches to the top of a **Canon P** or **Canon 7** rangefinder.
 
-![temp images here](IMAGE URL)
+![temp images here](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/f01.JPG)
+![temp images here](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/f02.JPG)
