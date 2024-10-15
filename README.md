@@ -60,7 +60,7 @@ The winding function does not cock the shutter and allows the film to be wound i
 
 ![Photos of shutter and aperture before and during exposure.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/oly-pen-d2-mechanical.png)
 
-_Note: In the picture above, you will notice a void to the right side of the shutter mechanism. This is where the clockwork (timing mechanism for exposure control) usually is, but I had removed it to be disasembled and ultrasonically cleaned._
+_Note: In the picture above, you will notice a void to the right side of the shutter mechanism. This is where the clockwork (timing mechanism for exposure control) usually is, but I had removed it for disassembly and ultrasonic cleaning._
 
 ## Flash Unit
 
