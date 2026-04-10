@@ -56,7 +56,9 @@ The camera required a complete and full dissassembly. Each individual part from 
 The shutter was slow as the shutter blades required cleaning.
 The aperture blades were in fine condition, and did not need to be bothered about as the aperture is manually stopped down always.
 
-The winding function does not cock the shutter and allows the film to be wound infinitely, _but only_ when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
+**Update:** The winding function does not cock the shutter and allows the film to be wound infinitely, _but only_ when the top plate of the camera is attached; otherwise it works correctly while naked. This is a new problem I do not know how to fix.
+
+**Update:** The winding issue was solved by disassembleling the front of the lens down to the shutter and bending the angle at which the metal prong extends from the final silver ring to be removed before revealing the clockwork machanism. This prong reaches behind the shutter to the top of the camera, where it is responsible for locking the winding wheel when the shutter is cocked. If this prong is bent too far downwards the wheel may not unlock after exposure, and if this prong is bend too far upwards the fhe wheel may not lock when ready for exposure. The fix was simply readjusting the angle of this prong and cleaning the linkages under the top plate.
 
 ![Photos of shutter and aperture before and during exposure.](https://github.com/Julesc013/olympus-pen-d2/blob/main/photos/oly-pen-d2-mechanical.png)
 
